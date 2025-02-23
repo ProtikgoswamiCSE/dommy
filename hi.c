@@ -1,5 +1,6 @@
-int x = 20;
-int y = 18;
-if (x > y) {
-  printf("x is greater than y");
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
 }
